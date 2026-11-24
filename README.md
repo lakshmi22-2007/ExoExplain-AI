@@ -58,13 +58,6 @@ Our **Random Forest Classifier** achieved high reliability across validation met
 
 ---
 
-## 🔍 Explainability Insights (SHAP Analysis)
-
-1. **Signal-to-Noise Ratio (`koi_model_snr`)**: High transit SNR is the strongest positive indicator of confirmed exoplanets.
-2. **False Positive Flags (`koi_fpflag_*`)**: Stellar eclipse and centroid offset flags quickly filter binary star background noise.
-3. **Planetary Radius (`koi_prad`) & Depth (`koi_depth`)**: Plausible Earth-to-Neptune size profiles distinguish genuine planetary transits from stellar companion eclipses.
-
----
 
 ## 🚀 Quick Start Guide
 
